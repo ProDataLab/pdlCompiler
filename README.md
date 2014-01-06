@@ -1,4 +1,4 @@
 pdlCompiler
 ===========
 
-ProDataLab's initial work on utilizing compiler technology.
+ProDataLab's work on utilizing computation theory and various lexer/parser/compiler technologies.

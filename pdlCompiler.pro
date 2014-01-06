@@ -1,0 +1,3 @@
+OTHER_FILES += LICENSE README.md
+TEMPLATE = subdirs
+SUBDIRS += src

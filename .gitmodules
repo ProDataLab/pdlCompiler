@@ -1,0 +1,3 @@
+[submodule "src/pdlCompiler"]
+	path = src/pdlCompiler
+	url = git@github.com:ProDataLab/finite-state-machine-toy.git
