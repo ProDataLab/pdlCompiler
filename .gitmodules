@@ -1,3 +1,6 @@
 [submodule "src/sandbox/flex-bison-toy"]
 	path = src/sandbox/flex-bison-toy
 	url = git@github.com:ProDataLab/flex-bison-toy.git
+[submodule "src/sandbox/finite-state-machine-toy"]
+	path = src/sandbox/finite-state-machine-toy
+	url = git@github.com:ProDataLab/finite-state-machine-toy.git
